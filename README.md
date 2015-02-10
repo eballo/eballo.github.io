@@ -3,8 +3,8 @@ Blue Codex Porfolio
 
 Blue Codex Portfolio - by eballo
 
-- [www.bluecodex.nl](www.bluecodex.nl)
-- [www.bluecodex.es](www.bluecodex.es)
-- [www.bluecodex.cat](www.bluecodex.cat)
-- [www.bluecodex.org](www.bluecodex.org)
-- [www.bluecodex.com](www.bluecodex.com)
+- [http://www.bluecodex.nl](www.bluecodex.nl)
+- [http://www.bluecodex.es](www.bluecodex.es)
+- [http://www.bluecodex.cat](www.bluecodex.cat)
+- [http://www.bluecodex.org](www.bluecodex.org)
+- [http://www.bluecodex.com](www.bluecodex.com)
